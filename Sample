@@ -1,3 +1,185 @@
 #EXTM3U
-#EXTINF:1, tvg-id="pakkatv" tvg-logo="" tvg-name="Sony HD"  group-title="sports",Sony
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.m3u8
+
+#EXTINF:-1 ,STAR WORLD FHD
+
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
+
+#EXTINF:-1 ,Rai Premium
+
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1 ,NBC
+
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+
+#EXTINF:-1 ,HBO2 [720p]
+
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+
+#EXTINF:-1 ,RAI MOVIE
+
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 ,VOD : MUNAPIK (2016)
+
+http://103.91.144.230/ftpdata/Movies/Bollywood/2016/Munafik%20%282016%29/Munafik%20%282016%29%20%20Engsub%201080p.mp4
+
+#EXTINF:-1 ,GOLF NETWORK
+
+http://203.162.235.41:16924
+
+#EXTINF:-1 ,ESPN 2
+
+https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1 ,ESPN News
+
+https://gma2.blab.email/espnews.m3u8
+
+#EXTINF:-1 ,ESPN U
+
+https://gma2.blab.email/espnu.m3u8
+
+#EXTINF:-1 ,Olympic Channel (HD)
+
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+
+#EXTINF:-1 ,D Sport
+
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+
+#EXTINF:-1 ,Ads sport cricket
+
+http://212.47.252.54/hls/stream.m3u8
+
+#EXTINF:-1 ,IRIB Press TV
+
+https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+
+#EXTINF:-1 ,Newsmax
+
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
+#EXTINF:-1 ,BBC News
+
+http://51.52.156.22:8888/http/004
+
+#EXTINF:-1 ,ABC News
+
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 ,Arirang
+
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 ,BBC News
+
+http://51.52.156.22:8888/http/004
+
+#EXTINF:-1 ,Cheddar Big News
+
+https://live.chdrstatic.com/cbn/index.m3u8
+
+#EXTINF:-1 ,CGTN
+
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 ,Deutsche Welle (English)
+
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+
+#EXTINF:-1 ,Euronews
+
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
+
+#EXTINF:-1 ,France 24
+
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
+#EXTINF:-1 ,IRIB Press TV
+
+https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+
+#EXTINF:-1 ,India Today
+
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 ,Mirror Now
+
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+
+#EXTINF:-1 ,Times Now
+
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
+#EXTINF:-1 ,NDTV 24X7
+
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:-1 ,Newsmax
+
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
+#EXTINF:-1 ,NHK World
+
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 ,RT
+
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+
+#EXTINF:-1 ,TRT World
+
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+
+#EXTINF:-1 ,Bloomberg Asia
+
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 ,Cheddar
+
+https://live.chdrstatic.com/cheddar/index.m3u8
+
+#EXTINF:-1 ,CNBC 18
+
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1 ,CNBC ?????
+
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+
+#EXTINF:-1 ,ET Now
+
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
+#EXTINF:-1 ,DD Sports
+
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
+#EXTINF:-1 ,Discovery Sports
+
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:-1 ,Ads sport cricket
+
+http://212.47.252.54/hls/stream.m3u8
+
+#EXTINF:-1 ,Fox Sports 501
+
+http://45.58.62.92:8080
+
+#EXTINF:-1 ,One Golf
+
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1 ,Tennis Channel
+
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 ,Tennis Channel+
+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1 ,Docurama
+
+https://cinedigm.vo.llnwd.net/conssui/ama
