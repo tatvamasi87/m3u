@@ -1,5 +1,3 @@
 #EXTM3U
-
-#EXTINF:1, tvg-id="paktv" tvg-logo="New Logo" tvg-name="Sony HD"  group-title="sports",Sony
-
+#EXTINF:1, tvg-id="pakkatv" tvg-logo="" tvg-name="Sony HD"  group-title="sports",Sony
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.m3u8
